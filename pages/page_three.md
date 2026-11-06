@@ -34,6 +34,3 @@ Yes, I would and will rely on Zotero for my thesis and have already started coll
 - [Zotero](https://www.zotero.org)
 - [Zotero: About](https://www.zotero.org/about/)
 - [Zotero: Support: Exporting](https://www.zotero.org/support/kb/exporting)
-
-
-![Example of a Zotero library](./assets/images/Zotero_screenshot.png)
