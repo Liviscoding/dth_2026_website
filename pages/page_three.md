@@ -11,7 +11,7 @@ Zotero is a free tool for research citation. It allows users to collect, save an
 As my major Intercultural Studies uses a lot of sources from websites, research papers and books, Zotero helps by efficiently saving these with one click through the browser extension. With that the time-consuming manual writing of sources in documents is not necessary anymore.
 
 ### 3. The five checks from week 41
-*checked on the November 6, 2026*
+*checked on November 6, 2026*
 
 1.	Licence: which one, and what it lets you do?
 Zotero uses the Licence GNU Affero General Public with the version 3 (AGPLv3). They write „Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed”.
