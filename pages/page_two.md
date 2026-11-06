@@ -12,7 +12,8 @@ The fact that everyone can change the code gives people, corporations and govern
 
 Being a new student to coding myself, I could see the possibility of misunderstanding or potentially misusing licenses of open source software. This could have negative consequences and could be a liability. Therefore, I see it this complexity a disadvantage for newcomers in the open source ecosystem.  
 
+
 ### Sources
 
+- [Akamai: XZ Utils Backdoor](https://www.akamai.com/blog/security-research/critical-linux-backdoor-xz-utils-discovered-what-to-know ) 
 - [Refine Blog: open source advantages and disadvantages](https://refine.dev/blog/open-source-advantages-disadvantages/)
-- [Akamai: XZ Utils Backdoor](https://www.akamai.com/blog/security-research/critical-linux-backdoor-xz-utils-discovered-what-to-know )
