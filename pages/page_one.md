@@ -18,7 +18,7 @@ From a municipality’s point of view, having access to code and similar applica
 
 ### Sources
 
+- [Publiccode: Public Money, Public Code](https://publiccode.eu/) 
 - [Refine Blog: open source advantages and disadvantages](https://refine.dev/blog/open-source-advantages-disadvantages/)
-- [Publiccode: Public Money, Public Code](https://publiccode.eu/)
 
 ![The beach at Skagen](./assets/images/skagen.jpg)
