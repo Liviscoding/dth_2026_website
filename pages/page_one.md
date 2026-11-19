@@ -16,7 +16,7 @@ Furthermore, open source software can work as a training and education for a per
 
 From a municipality’s point of view, having access to code and similar applications can save tax money. This is because the software doesn’t have to be developed *from scratch every time*.
 
-### Sources
+### References
 
 - [Publiccode: Public Money, Public Code](https://publiccode.eu/) 
 - [Refine Blog: open source advantages and disadvantages](https://refine.dev/blog/open-source-advantages-disadvantages/)
