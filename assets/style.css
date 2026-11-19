@@ -234,3 +234,8 @@ main img {
 #page_three h2 { color: var(--purple); }
 
 #page_three h3 { color: var(--blue); }
+
+#totalCount {
+  align-self: center;
+  margin: 0;
+}
