@@ -29,7 +29,7 @@ Zotero was initially funded by the Andrew W. Mellon Foundation, the United State
 
 I would and will rely on Zotero for my thesis and have already started to collect sources across different topics in my Zotero library. This means that I am somewhat dependent on the volunteer maintainers of Zotero. If I would decide to leave Zotero, I would be able to export my library of collected sources and therefore not lose my collected materials.
 
-### Sources
+### References
 
 - [GitHub Zotero](https://github.com/zotero/zotero)
 - [Zotero](https://www.zotero.org)
